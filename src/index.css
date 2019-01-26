@@ -1,0 +1,13 @@
+.ant-btn, .ant-input, .ant-collapse, .ant-table, .ant-select-selection, .ant-radio-button-wrapper:first-child, .ant-radio-button-wrapper:last-child {
+    border-radius: 0px;
+}
+
+.logo {
+    height: 32px;
+    background: rgba(255,255,255,.2);
+    margin: 16px;
+}
+
+.ant-layout-footer {
+    padding: 0px 16px;
+}
